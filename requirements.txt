@@ -1,0 +1,4 @@
+# requirements.txt
+
+Java Development Kit (JDK) 8 or higher
+(Optional) IntelliJ IDEA, Eclipse, NetBeans, or VS Code
